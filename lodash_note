@@ -1,0 +1,6 @@
+=========METHODS==========
+
+
+1) _.filter(collection, [predicate=_.identity])
+
+
